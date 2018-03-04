@@ -24,4 +24,12 @@ Quando um documento é adicionado para que o git o reconheça esse arquivo pode 
 
     git commit -m "<adiciondo um comentario>"
 
-    
+!===== Verificando as saidas de um arquivo com o log =====!
+
+   comando:
+
+    git log
+
+    git log --graph
+
+     
