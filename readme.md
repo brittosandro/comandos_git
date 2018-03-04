@@ -39,4 +39,14 @@ Quando um documento é adicionado para que o git o reconheça esse arquivo pode 
    git diff
 
    observação: Esse comando deve ser usado antes de mandar as informações para o estado
-               staged, ou seja, quando o estado do arquivo ainda é modified.      
+               staged, ou seja, quando o estado do arquivo ainda é modified.
+
+!===== Agora poderemos associar nosso repositório local ao repositório remoto  =====!
+
+  comando:
+  
+    git remote add origin https://{...} 
+
+
+
+        
