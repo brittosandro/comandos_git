@@ -42,6 +42,8 @@ Quando um documento é adicionado para que o git o reconheça esse arquivo pode 
                staged, ou seja, quando o estado do arquivo ainda é modified.
 
 !===== Agora poderemos associar nosso repositório local ao repositório remoto  =====!
+!==== É claro, se o repositório remoto já estiver sido criado, poderemos associar o
+      repositório local com o remoto pelo comando abaixo                       =====!
 
   comando:
   
