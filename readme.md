@@ -64,4 +64,8 @@ Quando um documento é adicionado para que o git o reconheça esse arquivo pode 
 
     git clone "<https do repositório remoto>" "<nome do arquivo/diretório>"
 
-        
+!===== Verificando status de um repositório remoto =====!
+
+   comando:
+    
+    git remote show origin        
