@@ -58,4 +58,10 @@ Quando um documento é adicionado para que o git o reconheça esse arquivo pode 
     git push -u origin master 
 
 
+!===== Clonando repositórios online =====!
+
+   comandos:
+
+    git clone "<https do repositório remoto>" "<nomr do arquivo/diretório>"
+
         
