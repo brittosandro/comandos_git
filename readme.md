@@ -32,4 +32,11 @@ Quando um documento é adicionado para que o git o reconheça esse arquivo pode 
 
     git log --graph
 
-     
+!===== As mudanças ocorridas em um arquivo podem ser vistas com o comando diff =====!
+
+  comando:
+
+   git diff
+
+   observação: Esse comando deve ser usado antes de mandar as informações para o estado
+               staged, ou seja, quando o estado do arquivo ainda é modified.      
