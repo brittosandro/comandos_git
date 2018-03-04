@@ -51,5 +51,11 @@ Quando um documento é adicionado para que o git o reconheça esse arquivo pode 
     git remote add origin https://{...} 
 
 
+!===== Mandando arquivos para repositório GITHUB por exemplo ======!
+
+   comando:
+
+    git push -u origin master 
+
 
         
