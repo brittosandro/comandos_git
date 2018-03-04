@@ -26,7 +26,7 @@ Quando um documento é adicionado para que o git o reconheça esse arquivo pode 
 
 !===== Verificando as saidas de um arquivo com o log =====!
 
-   comando:
+   comandos:
 
     git log
 
@@ -62,6 +62,6 @@ Quando um documento é adicionado para que o git o reconheça esse arquivo pode 
 
    comandos:
 
-    git clone "<https do repositório remoto>" "<nomr do arquivo/diretório>"
+    git clone "<https do repositório remoto>" "<nome do arquivo/diretório>"
 
         
