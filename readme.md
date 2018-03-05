@@ -68,4 +68,10 @@ Quando um documento é adicionado para que o git o reconheça esse arquivo pode 
 
    comando:
     
-    git remote show origin        
+    git remote show origin  
+
+!===== Atualizando repositório local a partir de um repositório remoto =====!
+
+  comando:
+
+   git pull      
