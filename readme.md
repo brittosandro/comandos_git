@@ -1,5 +1,5 @@
 
-# Um pequeno lembrete sobre comando básicos do Git
+# Um pequeno lembrete sobre comandos básicos do Git
 
 
 !====== Adicionando configurações iniciais ======!
