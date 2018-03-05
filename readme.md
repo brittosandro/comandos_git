@@ -1,3 +1,12 @@
+
+!====== Adicionando configuraçãoes iniciais ======!
+
+   comandos:
+
+     git config --global user.name  "<seu nome>"
+     git config --global user.email "<seu email>"
+
+
 !=======  Iniciando repositório com o git =====!
 
    comando:
