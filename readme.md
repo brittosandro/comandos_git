@@ -74,4 +74,4 @@ Quando um documento é adicionado para que o git o reconheça esse arquivo pode 
 
   comando:
 
-   git pull      
+    git pull      
