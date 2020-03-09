@@ -99,5 +99,10 @@ Quando um documento é adicionado para que o git o reconheça esse arquivo pode 
    Fazendo novos testes aqui
 
   - Cria-se uma nova branch com:
+
     git branch trabalhando
+
+  - Para fazer um novo branch, deveremos fazer:
+    
+    git branch novo_trabalho
 
