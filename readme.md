@@ -106,3 +106,7 @@ Quando um documento é adicionado para que o git o reconheça esse arquivo pode 
     
     git branch novo_trabalho
 
+  - Comando para ver as modificações:
+   
+   git log
+
