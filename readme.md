@@ -112,5 +112,9 @@ Quando um documento é adicionado para que o git o reconheça esse arquivo pode 
 
   - Testando o comando de sequêmcia: 
    
+     git log --oneline --all --graph -n 4
+
+  - Testando
+    
      git log --oneline --all --graph -n 4  
 
