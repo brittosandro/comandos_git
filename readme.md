@@ -95,3 +95,5 @@ Quando um documento é adicionado para que o git o reconheça esse arquivo pode 
    git checkout -b  novo_ramo_branches
 
    [note que: o parâmetro -b irá mudar do branch corrente para o novo branch]
+
+   Fazendo novos testes aqui
