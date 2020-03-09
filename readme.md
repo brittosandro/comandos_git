@@ -100,13 +100,17 @@ Quando um documento é adicionado para que o git o reconheça esse arquivo pode 
 
   - Cria-se uma nova branch com:
 
-    git branch trabalhando
+     git branch trabalhando
 
   - Para fazer um novo branch, deveremos fazer:
     
-    git branch novo_trabalho
+     git branch novo_trabalho
 
   - Comando para ver as modificações:
    
-   git log
+     git log
+
+  - Testando o comando de sequêmcia: 
+   
+     git log --oneline --all --graph -n 4  
 
