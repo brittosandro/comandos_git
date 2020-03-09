@@ -97,3 +97,7 @@ Quando um documento é adicionado para que o git o reconheça esse arquivo pode 
    [note que: o parâmetro -b irá mudar do branch corrente para o novo branch]
 
    Fazendo novos testes aqui
+
+  - Cria-se uma nova branch com:
+    git branch trabalhando
+
