@@ -87,3 +87,11 @@ Quando um documento é adicionado para que o git o reconheça esse arquivo pode 
   comando:
 
     git pull      
+
+* Criando um novo ramo [branches]
+
+  comando:
+
+   git checkout -b novo_ramo_branches
+
+   [note que: o parâmetro -b irá mudar do branch corrente para o novo branch]
